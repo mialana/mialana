@@ -1,5 +1,5 @@
 <samp>
-Hi I'm Amy!
+Hi I'm Amy.
 
 I'm an Undergraduate & Accelerated Master's student studying in the Computer Graphics department at the University of Pennsylvania.
 
